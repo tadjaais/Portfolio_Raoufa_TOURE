@@ -1,12 +1,12 @@
-# RT
-portfolio data
+<img src="img/raoufaia.jpeg" alt="Aïssata Raoufa Touré" width="180" style="border-radius: 10px; margin-top: 20px;">
+
 
 # 👩🏽‍💻 Aïssata Raoufa Touré  
 
 **Data Analyst | Orange Côte d’Ivoire | Passionnée de Data & Stratégie**
 
 📍 Abidjan, Côte d’Ivoire  
-🌐 [LinkedIn](https://www.linkedin.com/) | 💻 [GitHub](https://github.com/RaoufaToure) | ✉️ raoufa.toure@example.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/raoufa-tour%C3%A9) | 💻 [GitHub](https://github.com/RaoufaToure) | ✉️ toureraoufa@gmail.com  
 
 ---
 
@@ -61,10 +61,11 @@ Mon objectif : **transformer la donnée en décisions éclairées** et aider les
 
 ---
 
-## 📚 Formation  
+## 📚 Formation Académiques 
 
-🎓 **Master en Data Science** – Côte d’Ivoire  
-🎓 **Licence en Statistiques et Économie**  
+🎓 **Master en Data Science** – Institut Supérieur de Statistiques , d'Econométrie et de DataScience - Côte d’Ivoire  
+🎓 **Licence en Statistiques et Économie**  – Université Polytechnique de Bingerville - Côte d’Ivoire
+🎓 **Baccalauréat scientifique - série C**  – Lycée Scientifique de Yamoussoukro - Côte d’Ivoire
 
 ---
 
@@ -79,8 +80,8 @@ Je cherche toujours à apprendre, à innover et à contribuer à des projets à 
 
 ## 📫 Me contacter  
 
-📧 **Email :** raoufa.toure@example.com  
-🌐 **LinkedIn :** [Aïssata Raoufa Touré](https://www.linkedin.com/)  
+📧 **Email :** toureraoufa@gmail.com  
+🌐 **LinkedIn :** [Aïssata Raoufa Touré](https://www.linkedin.com/in/raoufa-tour%C3%A9) 
 💻 **GitHub :** [@RaoufaToure](https://github.com/RaoufaToure)  
 
 ---
