@@ -1,9 +1,8 @@
-<img src="img/raoufaia.jpeg" alt="Aïssata Raoufa Touré" width="180" style="border-radius: 10px; margin-top: 20px;">
 
 
 # 👩🏽‍💻 Aïssata Raoufa Touré  
 
-**Data Analyst | Orange Côte d’Ivoire | Passionnée de Data & Stratégie**
+**Data Analyst - DataScientist | Orange Côte d’Ivoire | Passionnée de Data & Stratégie**
 
 📍 Abidjan, Côte d’Ivoire  
 🌐 [LinkedIn](https://www.linkedin.com/in/raoufa-tour%C3%A9) | 💻 [GitHub](https://github.com/RaoufaToure) | ✉️ toureraoufa@gmail.com  
