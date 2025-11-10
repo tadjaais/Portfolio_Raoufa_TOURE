@@ -64,7 +64,9 @@ Mon objectif : **transformer la donnée en décisions éclairées** et aider les
 ## 📚 Formation Académiques 
 
 🎓 **Master en Data Science** – Institut Supérieur de Statistiques , d'Econométrie et de DataScience - Côte d’Ivoire  
+
 🎓 **Licence en Statistiques et Économie**  – Université Polytechnique de Bingerville - Côte d’Ivoire
+
 🎓 **Baccalauréat scientifique - série C**  – Lycée Scientifique de Yamoussoukro - Côte d’Ivoire
 
 ---
