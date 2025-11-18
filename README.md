@@ -5,7 +5,7 @@
 **Data Analyst - DataScientist | Orange Côte d’Ivoire | Passionnée de Data & Stratégie**
 
 📍 Abidjan, Côte d’Ivoire  
-🌐 [LinkedIn](https://www.linkedin.com/in/raoufa-tour%C3%A9) | 💻 [GitHub](https://github.com/RaoufaToure) | ✉️ toureraoufa@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/raoufa-tour%C3%A9) | 💻 [GitHub](https://github.com/tadjaais) | ✉️ toureraoufa@gmail.com  
 
 ---
 
@@ -83,7 +83,7 @@ Je cherche toujours à apprendre, à innover et à contribuer à des projets à 
 
 📧 **Email :** toureraoufa@gmail.com  
 🌐 **LinkedIn :** [Aïssata Raoufa Touré](https://www.linkedin.com/in/raoufa-tour%C3%A9) 
-💻 **GitHub :** [@RaoufaToure](https://tadjaais.github.io/RT/) 
+💻 **GitHub :** [@RaoufaToure](https://github.com/tadjaais) 
 
 ---
 
