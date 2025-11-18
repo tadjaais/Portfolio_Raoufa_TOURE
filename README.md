@@ -39,15 +39,15 @@ Mon objectif : **transformer la donnée en décisions éclairées** et aider les
 
 ---
 
-### 🚗 [Analyse des sinistres d’assurance auto](https://github.com/ton-lien/assurance-auto)
-> **Objectif :** Modéliser la fréquence et le coût des sinistres.  
-> **Techniques :** Régressions, ACP, visualisations ggplot2.  
-> **Résultat :** Prédiction des risques clients et optimisation tarifaire.  
+### 🚗 [Conception d'un Dashboard Excel 360 - Visualisation complete des performances commerciales](https://github.com/tadjaais/conception_Dashboard_Excel_360.git)
+> **Objectif :** visualiser les performances commerciales des canaux de ventes suivant plusieurs critères.  
+> **Techniques :** Netoyage , apurement , TCD , sychronisation des filtres (slicers).  
+> **Résultat :** optimisation et mise en place des actions commerciales , interpellation des acteurs moins performants.  
 
 ---
 
 ### 📈 [Dashboard Power BI – Suivi des ventes FTTH & Broadband](https://github.com/ton-lien/dashboard-ftth)
-> **Objectif :** Piloter les ventes B2B et DRDI avec des indicateurs dynamiques.  
+> **Objectif :** Piloter les ventes avec des indicateurs dynamiques.  
 > **Outils :** Power BI, Excel, DAX.  
 > **Résultat :** Vision claire des performances et de l’atteinte des objectifs commerciaux.  
 
